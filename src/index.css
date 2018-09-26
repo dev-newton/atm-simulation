@@ -1,0 +1,8 @@
+.index {
+    background-image: url('../src/assets/images/db1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    /* opacity: 0.5; */
+}

@@ -1,0 +1,16 @@
+.Title {
+    text-align: center;
+    color: #fff;
+    background: #6bdc05;
+    width: 100%;
+    padding: 30px;
+    border: none;
+    margin-top: auto;
+    margin-bottom: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+

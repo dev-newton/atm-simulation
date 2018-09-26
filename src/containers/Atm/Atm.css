@@ -1,0 +1,12 @@
+.Atm {
+
+
+}
+
+.bgImage {
+    margin-top: 180px;
+    background-image: url('../../assets/images/db.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.5;
+}

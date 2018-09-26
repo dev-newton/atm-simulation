@@ -1,0 +1,90 @@
+.Pin {
+    margin-top: 190px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #6bdc05;
+    text-align: center;
+}
+
+
+
+.Input {
+   padding-left: 20px;
+   height: 100px;
+   margin-top: 10px;
+   font-size: 36px;
+   border: 1px solid #6bdc05;;
+}
+.Button1 {
+    width: 100px;
+    height: 50px;
+    border: 30px;
+    margin-top: 80px;
+    margin-left: 360px;
+    color: white;
+    border: -2px solid rgb(236, 215, 215);
+    font-size: 16px;
+    border-radius: 40px;
+    font-weight: bolder;
+    background: #6bdc05;
+}
+.exitButton1 {
+    width: 100px;
+    height: 50px;
+    border: 30px;
+    margin-top: 30px;
+    margin-left: 360px;
+    color: white;
+    border: -2px solid rgb(236, 215, 215);
+    font-size: 16px;
+    border-radius: 40px;
+    font-weight: bolder;
+    background: #6bdc05;
+    margin-bottom: 95px;
+}
+
+@media (min-width: 700px) {
+    .Label {
+        padding-right: 470px;
+        font-size: 30px;
+    }
+    
+    .Input {
+        height: 100px;
+        margin-top: 10px;
+        font-size: 36px;
+        padding-left: 200px;
+        border: 1px solid #6bdc05;;
+    }
+
+    .Button1 {
+        width: 100px;
+        height: 50px;
+        border: 30px;
+        margin-top: 80px;
+        margin-left: 545px;
+        color: white;
+        border: -2px solid rgb(236, 215, 215);
+        font-size: 16px;
+        border-radius: 40px;
+        font-weight: bolder;
+        cursor: pointer;
+        background: #6bdc05;
+    }
+
+    .exitButton1 {
+        height: 50px;
+        border: 30px;
+        color: white;
+        margin-top: 50px;
+        cursor: pointer;
+        display: list-item;
+        margin-left: 900px;
+        text-decoration: none;
+        font-size: 16px;
+        border-radius: 40px;
+        font-weight: bolder;
+        background: #6bdc05;
+        text-align: center;
+    }
+}
+
